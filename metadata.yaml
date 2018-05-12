@@ -1,15 +1,21 @@
 _repo: Pictures-of-the-old-French-court-Jeanne-de-Bourbon-Isabeau-de-Baviere-Anne-de-Bretagne_50052
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Bearne, Edward H.
     gutenberg_agent_id: '45681'
     url: http://www.gutenberg.org/2009/agents/45681
+covers:
+- cover_type: archival
+  image_path: 50052-h/images/cover.jpg
 creator:
   author:
     agent_name: Bearne, Catherine Mary
     gutenberg_agent_id: '45680'
     url: http://www.gutenberg.org/2009/agents/45680
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50052#Pictures-of-the-old-French-court-Jeanne-de-Bourbon-Isabeau-de-Baviere-Anne-de-Bretagne
 gutenberg_issued: '2015-09-25'
 gutenberg_type: Text
 identifiers:
