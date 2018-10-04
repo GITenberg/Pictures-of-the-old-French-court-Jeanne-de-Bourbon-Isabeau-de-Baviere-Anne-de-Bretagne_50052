@@ -24,6 +24,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Pictures of the old French court
 
   Jeanne de Bourbon, Isabeau de Bavière, Anne de Bretagne'
